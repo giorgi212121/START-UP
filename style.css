@@ -1,0 +1,153 @@
+body{
+    background-color: #0B0D39;
+}
+.main-div{
+    padding-left: 200px;
+}
+
+.container1{
+    background-color: #1A1C46;
+    width: 904px;
+    height: 123px;
+    border-radius: 62px 62px 62px 62px;
+    display: flex;
+    justify-content: center;
+}
+.startup{
+    width: 108px;
+    height: 49px;
+padding-top: 31px;
+}
+.container1 p{
+    color: #FFFFFF;
+    padding: 41px;
+    font-size: 20px;
+    display: inline;
+    padding-top: 30px;
+}
+.item1{
+    opacity: 0.6;
+}
+.main-text{
+    color: #FFFFFF;
+    font-size: 80px;
+    width: 654px;
+    margin-bottom: 18px;
+}
+.main-text span{
+    color: #356DFF;
+}
+.explain{
+    color: #FFFFFF;
+    opacity: 0.6;
+    font-size: 22px;
+    width: 560px;
+    margin-top: 18px;
+}
+
+.discuss{
+    background-color: #356DFF;
+    width: 209px;
+    height: 70px;
+    font-size: 20px;
+    border-radius: 43px 43px 43px 12px;
+    margin-top: 33px;
+}
+
+.box-main-div{
+    background-color: #1A1C46;
+    width: 1076px;
+    height: 666px;
+    margin-top: 77px;
+    margin-bottom: 64px;
+    border-radius: 40px;
+}
+.box h1{
+    color: #FFFFFF;
+font-size: 64px;
+padding-top: 35px;
+padding-left: 389px;
+}
+.box span{
+    color: #356DFF;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 79px;
+}
+
+.logo1{
+    background-color: #FFFFFF12;
+    width: 236px;
+    height: 236px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+}
+.first{
+    width: 236px;
+    height: 236px;
+}
+
+.product-design{
+    color: #FFFFFF;
+    font-size: 24px;
+    margin-left: 39px;
+    margin-top: 35px;
+}
+
+.first-logo-text{
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 270px;
+    letter-spacing: 0.06px;
+    opacity: 0.6;
+}
+
+.second{
+    width: 270px;
+    height: 270px;
+    position: absolute;
+    top: -56px;
+    left: 0px;
+}
+
+.branding{
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 34px;
+}
+
+.second-logo-text{
+    color: #ffffff;
+    font-size: 16px;
+width: 270px;
+opacity: 0.6;
+letter-spacing: 0.06px;
+}
+
+.third{
+    width: 287px;
+    height: 287px;
+    margin-bottom: 24px;
+    margin-left: -20px;
+}
+.coding{
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 34px;
+}
+.third-logo-text{
+    color: #ffffff;
+    font-size: 16px;
+    opacity: 0.6;
+    letter-spacing: 0.06px;
+    width: 270px;
+
+}
